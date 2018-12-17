@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+   
+    
+  }
+  
+  h1 {
+    color: blue;
+    text-align: center;
+    background-color: chartreuse
+   
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    
+  }
+  
+  div{
+    font-size: large
+  }
